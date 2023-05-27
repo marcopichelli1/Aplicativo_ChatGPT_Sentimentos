@@ -1,0 +1,19 @@
+{
+  "name": "ReactNativeApp",
+  "version": "1.0.0",
+  "main": "App.tsx",
+  "scripts": {
+    "start": "react-native start",
+    "android": "react-native run-android",
+    "ios": "react-native run-ios"
+  },
+  "dependencies": {
+    "react": "16.13.1",
+    "react-native": "0.63.4",
+    "react-native-elements": "*",
+    "react-native-safe-area-context": "4.4.1",
+    "@expo/vector-icons": "^13.0.0",
+    "openai": "*"
+  },
+  "private": true
+}
